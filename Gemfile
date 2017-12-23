@@ -48,6 +48,8 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'paperclip', '~> 5.1'
+  gem 'simple_form', '~> 3.5'
+  gem 'bootstrap', '~> 4.0.0.beta2.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
